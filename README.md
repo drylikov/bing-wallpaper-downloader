@@ -1,4 +1,4 @@
-# Bing Wallpaper Downloader
+# Bing Wallpaper Downloader.
 A simple script to download Bing's daily background images.
 
 # Requirements
@@ -38,9 +38,9 @@ For help use the help flag:
 ```
 $ ./bing-wallpaper-downloader.sh --destination=~/Pictures/Bing/ --total=5
 Success: Downloaded 5 Bing wallpapers
- - /Users/Arthur/Pictures/Bing/2016-08-10.jpg
- - /Users/Arthur/Pictures/Bing/2016-08-09.jpg
- - /Users/Arthur/Pictures/Bing/2016-08-08.jpg
- - /Users/Arthur/Pictures/Bing/2016-08-07.jpg
- - /Users/Arthur/Pictures/Bing/2016-08-06.jpg
+ - /Users/Denis/Pictures/Bing/2024-08-10.jpg
+ - /Users/Denis/Pictures/Bing/2024-08-09.jpg
+ - /Users/Denis/Pictures/Bing/2024-08-08.jpg
+ - /Users/Denis/Pictures/Bing/2024-08-07.jpg
+ - /Users/Denis/Pictures/Bing/2024-08-06.jpg
  ```
